@@ -7,10 +7,11 @@
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:art.1387.na@gmail.com)](mailto:art.1387.na@gmail.com)
 ![](https://dcbadge.vercel.app/api/shield/1010448380280983552?style=flat&theme=compact=true?theme=default)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ahforoughi99/)](https://space.bilibili.com/7708412)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/artin.navidgoli/)](https://space.bilibili.com/7708412)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Artinnavidgoli)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Artinnavidgoli)
 
+ 
  - 🥀 Learning Django & Kotlin
  
  - <i>with Javascript, python, flask and 69 others.</i>
@@ -24,6 +25,7 @@
  - I do fullstack and a bit of everything :heart:
  
  - All About living life at its best.
+
 <p align="right" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=Artinnavidgoli&&show_icons=true&theme=radical"/>
