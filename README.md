@@ -25,6 +25,10 @@
  - I do fullstack and a bit of everything :heart:
  
  - All About living life at its best.
+ 
+ - ps: i'm allways in discord but in invisible mode , so i will be happy if contact me . 
+ 
+ - if you want i'm here for any open-source project ;)
 
 <p align="right" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
