@@ -30,6 +30,8 @@
  
  - if you want i'm here for any open-source project ;)
 
+ - check out my resume pdf [here](https://github.com/Artinnavidgoli/resumesite)
+
 <p align="right" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=Artinnavidgoli&&show_icons=true&theme=radical"/>
