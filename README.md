@@ -41,6 +41,9 @@
 
 <br />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Artinnavidgoli&theme=dark&mode=weekly&fire=DD2727&dates=DD0DBE&border=0F0FDD)](https://git.io/streak-stats)
+
+
 ****
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
