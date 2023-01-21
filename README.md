@@ -32,7 +32,7 @@
 
  - check out my resume pdf [here](https://github.com/Artinnavidgoli/resumesite)
 
-<p align="right" >
+<p align="left" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=Artinnavidgoli&&show_icons=true&theme=radical"/>
   </a>
@@ -43,6 +43,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Artinnavidgoli&theme=dark&mode=weekly&fire=DD2727&dates=DD0DBE&border=0F0FDD)](https://git.io/streak-stats)
 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Artinnavidgoli&theme=blue-green)
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ****
 
