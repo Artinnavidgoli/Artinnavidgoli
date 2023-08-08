@@ -32,6 +32,13 @@
 
  - check out my resume pdf [here](https://github.com/Artinnavidgoli/resumesite)
 
+### Donate me
+
+<a href="https://www.coffeebede.com/time.to.code.with.me">
+  <img src="https://img.shields.io/badge/buy me a coffee-darkgreen.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white" height=30>
+</a>
+
+
 <p align="left" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=Artinnavidgoli&&show_icons=true&theme=radical"/>
