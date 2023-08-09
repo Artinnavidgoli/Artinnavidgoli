@@ -7,9 +7,25 @@
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:art.1387.na@gmail.com)](mailto:art.1387.na@gmail.com)
 ![](https://dcbadge.vercel.app/api/shield/1010448380280983552?style=flat&theme=compact=true?theme=default)
-![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/artin.navidgoli/)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Artinnavidgoli)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Artinnavidgoli)
+<p>
+  <a href="https://github.com/Artinnavidgoli">
+    <img src="https://img.shields.io/badge/github-blue.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
+  </a> 
+  <a href="https:https://www.linkedin.com/in/artin-navidgoli-aa2915247">
+    <img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a> 
+  <a href="https://www.instagram.com/artin.navidgoli">
+    <img src="https://img.shields.io/badge/instagram-blue.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+  </a> 
+  <a href="https://artin-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/website-blue.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" height=25>
+  </a> 
+  <a href="https://t.me/SyntaxError69">
+    <img src="https://img.shields.io/badge/telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25>
+  </a>
+</p>
 
  
  - 🥀 Learning Django & Kotlin
@@ -35,7 +51,7 @@
 ### Donate me
 
 <a href="https://www.coffeebede.com/time.to.code.with.me">
-  <img src="https://img.shields.io/badge/buy me a coffee-darkblue.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white" height=30>
+  <img src="https://img.shields.io/badge/buy me a coffee-blue.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white" height=30>
 </a>
 
 
