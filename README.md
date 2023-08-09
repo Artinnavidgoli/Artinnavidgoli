@@ -10,9 +10,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Artinnavidgoli)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Artinnavidgoli)
 <p>
-  <a href="https://github.com/Artinnavidgoli">
-    <img src="https://img.shields.io/badge/github-blue.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
-  </a> 
+  <a> 
   <a href="https:https://www.linkedin.com/in/artin-navidgoli-aa2915247">
     <img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a> 
