@@ -32,7 +32,7 @@
    
  - 🔭 SpaceX FanBoi, die for space😼
 
- - 🛸 Into High Energy Physics and Astrophysics, 
+ - 🛸 Into High Energy Physics and chemistry , 
  
  i love shooting stars too.
  
@@ -40,11 +40,13 @@
  
  - All About living life at its best.
  
- - ps: i'm allways in discord but in invisible mode , so i will be happy if contact me . 
+ - ps: i'm allways in discord but in invisible mode , so i will be happy if contact me. 
  
  - if you want i'm here for any open-source project ;)
 
  - check out my resume pdf [here](https://github.com/Artinnavidgoli/resumesite)
+
+ - also check out my [portfolio-website](https://artin-portfolio.vercel.app/)
 
 ### Donate me
 
