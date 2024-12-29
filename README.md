@@ -40,7 +40,7 @@
  
  - All About living life at its best.
  
- - ps: i'm allways in discord but in invisible mode , so i will be happy if contact me. 
+ - ps: i'm allways in [telegram](https://t.me/devartin) , so i will be happy if contact me. 
  
  - if you want i'm here for any open-source project ;)
 
